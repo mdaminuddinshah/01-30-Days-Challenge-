@@ -84,3 +84,8 @@ p {
         height: auto;
     }
 }
+@media (max-width: 1083px){
+  .footer {
+    margin-top: 100px;
+  }
+}
